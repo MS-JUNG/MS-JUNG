@@ -16,9 +16,15 @@ KAIST, Major in Bio and Brain Engineering & Minor in Data Science
 
 
 ## Simple Resume
+Club 
+Prometheus_ai  2021.2.01~2022~2.01
 
+Company 
+CNAI Intern, 2020.11.01~2021~1.31
 
-##### 
+Laboratory 
+MedAI Lab Korea University	Intern, 2022.07~2024.02
+Bio-Information Systems Laboratory - KAIST, Master 2024-03 ~
 
 
 <!--
