@@ -5,8 +5,8 @@
 ## Hi there 👋
 
 <span style="line-height: 1.2;">
-##### Korea University, Major in Biotechnology & Minor in Convergence Security <br>
-##### KAIST, Major in Bio and Brain Engineering & Minor in Data Science
+Korea University, Major in Biotechnology & Minor in Convergence Security <br>
+KAIST, Major in Bio and Brain Engineering & Minor in Data Science
 </span>
 
 ##### 🌱 I'm currently pursuing a master's degree at the Bio-Information Systems Laboratory. <br>
