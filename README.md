@@ -28,6 +28,11 @@
 
 ### 🚀 Activities
 - **Prometheus_ai** – *Member* (2021.02.01 ~ 2022.02.01)
+  
+### 🏆 Achievements
+- **Top 4%** in **LG AI Competition**, hosted on Dacon
+- **Korean Computer Specialist Level 1 (컴퓨터활용능력 1급)**
+- **ADSP (Advanced Data Analytics Semi-Professional, 데이터분석 준전문가)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG&layout=compact&exclude_forks=true&exclude_repo=Deep-Learning-Paper-Review-and-Practice&v=1)
 
