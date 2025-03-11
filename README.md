@@ -6,7 +6,6 @@
 
 ##### 🌱 I'm currently pursuing a master's degree at the Bio-Information Systems Laboratory. <br>
 ##### 🌱 My main research interests are Graph Neural Networks and Molecule Learning for Retro Synthesis Analysis.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG&layout=compact&exclude_forks=true&exclude_repo=Deep-Learning-Paper-Review-and-Practice&v=1)
 
 
 
@@ -30,6 +29,7 @@
 ### 🚀 Activities
 - **Prometheus_ai** – *Member* (2021.02.01 ~ 2022.02.01)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG&layout=compact&exclude_forks=true&exclude_repo=Deep-Learning-Paper-Review-and-Practice&v=1)
 
 <!--
 **MS-JUNG/MS-JUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
