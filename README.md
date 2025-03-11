@@ -18,8 +18,12 @@ KAIST, Major in Bio and Brain Engineering & Minor in Data Science
 ## 📝 Resume
 
 ### 🎓 Education
-- **KAIST**, Master’s Student  
-  *Bio-Information Systems Laboratory* (2024.03 ~)
+- **Korea University**  
+  *Major in Biotechnology & Minor in Convergence Security*
+
+- **KAIST**  
+  *Major in Bio and Brain Engineering & Minor in Data Science*  
+  *Bio-Information Systems Laboratory, Master’s Student (2024.03 ~)*
 
 ### 🔬 Research Experience
 - **MedAI Lab, Korea University** – *Intern* (2022.07 ~ 2024.02)
