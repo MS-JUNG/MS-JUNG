@@ -4,11 +4,21 @@
 
 ## Hi there 👋
 
+<span style="line-height: 1.2;">
+##### Korea University, Major in Biotechnology & Minor in Convergence Security <br>
+##### KAIST, Major in Bio and Brain Engineering & Minor in Data Science
+</span>
 
 ##### 🌱 I'm currently pursuing a master's degree at the Bio-Information Systems Laboratory. <br>
 ##### 🌱 My main research interests are Graph Neural Networks and Molecule Learning for Retro Synthesis Analysis.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG&layout=compact&exclude_forks=true&exclude_repo=Deep-Learning-Paper-Review-and-Practice&v=1)
 
+
+
+## Simple Resume
+
+
+##### 
 
 
 <!--
