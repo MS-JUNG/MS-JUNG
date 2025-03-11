@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-🌱 I'm currently pursuing a master's degree at the Bio-Information Systems Laboratory. <br>
-🌱 My main research interests are Graph Neural Networks and Molecule Learning for Retro Synthesis Analysis.
+##### 🌱 I'm currently pursuing a master's degree at the Bio-Information Systems Laboratory. <br>
+##### 🌱 My main research interests are Graph Neural Networks and Molecule Learning for Retro Synthesis Analysis.
 - 
 <!--
 **MS-JUNG/MS-JUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
