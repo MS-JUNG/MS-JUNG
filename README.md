@@ -9,7 +9,8 @@
 ##### 🌱 My main research interests are Graph Neural Networks and Molecule Learning for Retro Synthesis Analysis.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG&layout=compact&exclude_repo=Deep-Learning-Paper-Review-and-Practice)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG&layout=compact&exclude_forks=true)
+
 
 
 <!--
