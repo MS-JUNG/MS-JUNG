@@ -30,7 +30,7 @@
 - **Prometheus_ai** – *Member* (2021.02.01 ~ 2022.02.01)
   
 ### 🏆 Achievements
-- **Top 4%** in **LG AI Competition**, hosted on Dacon
+- **Top 4%** in **LG AI Competition**, hosted on Dacon 2025
 - **컴퓨터활용능력 1급**
 - **ADSP (Advanced Data Analytics Semi-Professional)**
 
