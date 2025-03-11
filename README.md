@@ -15,18 +15,22 @@ KAIST, Major in Bio and Brain Engineering & Minor in Data Science
 
 
 
-## Simple Resume
-<span style="line-height: 2;">
-Club  <br>
-Prometheus_ai  2021.2.01~2022.2.01  <br>
+## 📝 Resume
 
-Company   <br>
-CNAI Intern, 2020.11.01~2021.1.31  <br>
+### 🎓 Education
+- **KAIST**, Master’s Student  
+  *Bio-Information Systems Laboratory* (2024.03 ~)
 
-Laboratory   <br>
-MedAI Lab Korea University	Intern, 2022.07~2024.02  <br>
-Bio-Information Systems Laboratory - KAIST, Master 2024-03 ~  <br>
-</span>
+### 🔬 Research Experience
+- **MedAI Lab, Korea University** – *Intern* (2022.07 ~ 2024.02)
+- **Bio-Information Systems Laboratory, KAIST** – *Master’s Research* (2024.03 ~)
+
+### 💼 Work Experience
+- **CNAI** – *Intern* (2020.11.01 ~ 2021.01.31)
+
+### 🚀 Activities
+- **Prometheus_ai** – *Member* (2021.02.01 ~ 2022.02.01)
+
 
 <!--
 **MS-JUNG/MS-JUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
