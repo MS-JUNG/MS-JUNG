@@ -1,9 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ## Hi there 👋
 
 
 ##### 🌱 I'm currently pursuing a master's degree at the Bio-Information Systems Laboratory. <br>
 ##### 🌱 My main research interests are Graph Neural Networks and Molecule Learning for Retro Synthesis Analysis.
-- 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG&layout=compact)
+
 <!--
 **MS-JUNG/MS-JUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
