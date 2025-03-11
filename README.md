@@ -16,7 +16,7 @@ KAIST, Major in Bio and Brain Engineering & Minor in Data Science
 
 
 ## Simple Resume
-<span style="line-height: 1.2;">
+<span style="line-height: 2;">
 Club  <br>
 Prometheus_ai  2021.2.01~2022.2.01  <br>
 
