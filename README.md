@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🌱 I'm currently pursuing a master's degree at the Bio-Information Systems Laboratory.
+🌱 I'm currently pursuing a master's degree at the Bio-Information Systems Laboratory. <br>
 🌱 My main research interests are Graph Neural Networks and Molecule Learning for Retro Synthesis Analysis.
 - 
 <!--
