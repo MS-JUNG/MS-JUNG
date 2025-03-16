@@ -34,6 +34,8 @@
 - **컴퓨터활용능력 1급**
 - **ADSP (Advanced Data Analytics Semi-Professional)**
 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG&layout=compact&exclude_forks=true&exclude_repo=Deep-Learning-Paper-Review-and-Practice&v=1)
 
 <!--
