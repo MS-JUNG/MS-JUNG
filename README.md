@@ -36,7 +36,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG&layout=compact&exclude_forks=true&exclude_repo=Deep-Learning-Paper-Review-and-Practice&v=1)
+![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo})
 
 <!--
 **MS-JUNG/MS-JUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
