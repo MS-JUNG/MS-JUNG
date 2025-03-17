@@ -36,7 +36,7 @@
 
 
 
-![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo})
+![GitHub top language](https://img.shields.io/github/languages/top/{MS-JUNG}/{repo})
 
 <!--
 **MS-JUNG/MS-JUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
