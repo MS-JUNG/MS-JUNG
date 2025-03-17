@@ -36,7 +36,8 @@
 
 
 
-![GitHub top language](https://img.shields.io/github/languages/top/{MS-JUNG}/{repo})
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **MS-JUNG/MS-JUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
