@@ -36,6 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MS-JUNG)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian10330)](https://solved.ac/brian10330/)
 
 
 <!--
