@@ -2,16 +2,16 @@
 
 
 
-## Hi there 👋
+## Hi there 
 
 ##### I'm currently pursuing a master's degree at the Bio-Information Systems Laboratory. <br>
 ##### My main research interests are Graph Neural Networks and Molecule Learning for Retro Synthesis Analysis.
 
 
 
-## 📝 Resume
+##  Resume
 
-### 🎓 Education
+###  Education
 - **Korea University**  
   *Major in Biotechnology & Minor in Convergence Security*
 
@@ -19,17 +19,17 @@
   *Major in Bio and Brain Engineering & Minor in Data Science*  
   *Bio-Information Systems Laboratory, Master’s Student (2024.03 ~)*
 
-### 🔬 Research Experience
+###  Research Experience
 - **MedAI Lab, Korea University** – *Intern* (2022.07 ~ 2024.02)
 - **Bio-Information Systems Laboratory, KAIST** – *Master’s Research* (2024.03 ~)
 
-### 💼 Work Experience
+###  Work Experience
 - **CNAI** – *Intern* (2020.11.01 ~ 2021.01.31)
 
-### 🚀 Activities
+###  Activities
 - **Prometheus_ai** – *Member* (2021.02.01 ~ 2022.02.01)
   
-### 🏆 Achievements
+###  Achievements
 - **정보처리기사**
 - **Top 4%** in **LG AI Competition**, hosted on Dacon 2025
 - **컴퓨터활용능력 1급**
