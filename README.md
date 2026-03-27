@@ -47,8 +47,9 @@ Minor in Data Science
 ## 🏆 Achievements
 
 - 정보처리기사
-- Top 4% in LG AI Competition (Dacon 2025)
-- Top 3% K리그-서울시립대 공개 AI 경진대회(Dacon 2026)
+- Top 3%(25/937) K리그-서울시립대 공개 AI 경진대회(Dacon 2026)
+- Top 4%(31/794) in LG AI Competition (Dacon 2025)
+- SQLD 
 - 컴퓨터활용능력 1급
 - ADSP (Advanced Data Analytics Semi-Professional)
 
