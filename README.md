@@ -51,7 +51,7 @@ Minor in Data Science
 - Top 4%(31/794) in LG AI Competition (Dacon 2025)
 - SQLD 
 - 컴퓨터활용능력 1급
-- ADSP (Advanced Data Analytics Semi-Professional)
+- ADsP 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian10330)](https://solved.ac/brian10330/)
