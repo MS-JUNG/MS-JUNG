@@ -27,7 +27,7 @@
 ## 🎓 Education
 **Korea University**  
 B.S. in Biotechnology  
-Minor in Convergence Security  
+Second Major in Convergence Security
 
 **KAIST**  
 M.S. in Bio and Brain Engineering  
