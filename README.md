@@ -54,6 +54,6 @@ Minor in Data Science
 - ADsP 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian10330)](https://solved.ac/brian10330/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=brian10330)](https://solved.ac/brian10330)
 
 
